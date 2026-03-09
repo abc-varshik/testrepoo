@@ -1,2 +1,2 @@
 # testrepoo
-creating test repo for demo use
+i was creating my repo 
